@@ -9,14 +9,8 @@ output/
 outputs/
 results/
 logs/
-dataset/
-video_zhengliu/
 *.zip
 *.7z
 *.rar
-*.mp4
-*.avi
-*.mkv
-*.mov
 *.cache
 *.tmp
